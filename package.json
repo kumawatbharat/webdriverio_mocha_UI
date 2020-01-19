@@ -18,7 +18,6 @@
     "chai": "^4.2.0",
     "chromedriver": "^79.0.0",
     "mocha": "^7.0.0",
-    "wdio-chromedriver-service": "^5.0.2",
     "webdriverio": "^5.18.6"
   }
 }
